@@ -24,7 +24,7 @@ const Hero = ({theme, toggleTheme}: {theme: string | undefined, toggleTheme: () 
             />
             {/* Description Text */}
             <p className="dark:text-[#616161] text-gray-400 text-[2.3em] font-semibold leading-tight w-full">
-              <span className="dark:text-[#FBFBFB] text-gray-900">Work Done</span> is a software
+              <span className="dark:text-[#FBFBFB] text-gray-900">Forward Focus</span> is a software
               company that helps other companies and development teams outsource
               tasks so that they can focus on fast development and getting
               things done. Ship new features with the speed of light.
